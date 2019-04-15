@@ -8,9 +8,9 @@ J'ai créé 3 VMs ( les clients) avec la configuration suivante :
 * 10Go de Disque Dur
 * 16 Mo de Mémoire Vidéo 
 
-*La première VM ( client1.lab1.tp3) a pour adresse ip : `10.1.1.1`
-*La deuxième VM ( client2.lab1.tp3) a pour adresse ip : `10.1.1.2`
-*La dernière VM ( client3.lab1.tp3) a pour adresse ip : `10.1.1.3`
+* La première VM ( client1.lab1.tp3) a pour adresse ip : `10.1.1.1`
+* La deuxième VM ( client2.lab1.tp3) a pour adresse ip : `10.1.1.2`
+* La dernière VM ( client3.lab1.tp3) a pour adresse ip : `10.1.1.3`
 
 Elles ont toutes les trois pour hostname : 'tp3' et parviennent a ping les unes avec les autres ( Youpi ) 
 
